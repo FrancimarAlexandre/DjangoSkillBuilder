@@ -6,7 +6,8 @@ preparação para uma vaga de back-end utilizando Django.
 Esta lista serve como um guia estruturado para o estudo de Python e Django em 100 dias. 
 
 Semana 1-2: Fundamentos de Python
-    Dia 1-2: Introdução ao Python
+
+Dia 1-2: Introdução ao Python
 
     Instalação e configuração do ambiente
     Sintaxe básica
@@ -32,6 +33,7 @@ Dia 11-14: Módulos e Pacotes
     Importação de módulos
     Criação de pacotes
 Semana 3-4: Programação Orientada a Objetos (POO)
+
 Dia 15-18: Conceitos Básicos de POO
 
     Classes e objetos
@@ -49,6 +51,7 @@ Dia 25-28: Tratamento de Exceções
     Try, except, finally
     Criação de exceções personalizadas
 Semana 5-6: Fundamentos de Django
+
 Dia 29-31: Introdução ao Django
 
     Instalação do Django
@@ -71,6 +74,7 @@ Dia 41-42: Templates
     Sistema de templates
     Herança de templates
 Semana 7-8: Desenvolvimento de Aplicações Django
+
 Dia 43-45: Formulários
 
     Criação de formulários
@@ -85,6 +89,7 @@ Dia 49-52: Deploy de Aplicações Django
     Configuração do ambiente de produção
     Deploy no Heroku ou outro serviço
 Semana 9-10: Projeto Prático
+
 Dia 53-60: Planejamento e Configuração do Projeto
 
     Definição do escopo do projeto
@@ -94,6 +99,7 @@ Dia 61-70: Desenvolvimento do Projeto
     Implementação de funcionalidades básicas
     Criação de modelos, vistas e templates
 Semana 11-12: Tecnologias Adicionais e Integração
+
 Dia 71-75: APIs e Django Rest Framework
 
     Introdução ao Django Rest Framework
@@ -107,6 +113,7 @@ Dia 81-85: Frontend com Django
     Integração com bibliotecas JavaScript
     Uso de AJAX
 Semana 13-14: Projeto Final e Refinamento
+
 Dia 86-95: Desenvolvimento do Projeto Final
 
     Implementação de funcionalidades avançadas
