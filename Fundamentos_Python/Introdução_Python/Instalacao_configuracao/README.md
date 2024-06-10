@@ -1,3 +1,5 @@
+Link de referência <a href = "https://medium.com/@habbema/python-instala%C3%A7%C3%A3o-4f6a1b6e2a9f">medium</a>
+
 # Guia de Instalação do Python
 
 1. Visite o portal oficial do Python em [python.org](https://www.python.org).
