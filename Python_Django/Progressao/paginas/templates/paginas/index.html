@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página inicial</title>
-    {% load static %}
-    <link rel="stylesheet" href="{% static 'css/estilo.css' %}">
-</head>
-<body>
-    <h3>bem vindos ao módulo páginas</h3>
-    <img src="{% static 'img/ifrn_logo.png' %}" width="200" alt="if_logo">
-</body>
-</html>
+{% extends 'paginas/modelo.html' %}
+{% load static %}
+{% block title %} Página inicial {% endblock %}
+
+{% block conteudo %}
+<h2>Página inicial</h2>
+{% endblock %}
